@@ -1,4 +1,4 @@
-<h3 align="center">Salut 👋, je m'appele Pascal ABEDI, mon surnom est LOPEZ</h3>
+<h1 align="center">Salut 👋, je m'appele Pascal ABEDI, mon surnom est LOPEZ</h1>
 <h3 align="center">🌱 Suis un developpeur web fullStack</h3>
 <h4 align="center">🔭 Suis actuellements Freelance</h4>
 <h4 align="center">⚡ Suis ouvert ou partant pour des bons projets en programmation (Developpements d'application)</h4>
