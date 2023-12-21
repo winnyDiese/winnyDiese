@@ -1,6 +1,9 @@
 <h3 align="center">Salut 👋, je m'appele Pascal ABEDI, mon surnom est LOPEZ</h3>
-<h3 align="center">Suis un developpeur web fullStack</h3>
-<h4 align="center">J'aime bien collaborer avec d'autre programmeur pour accroitre mes connaissances</h4>
+<h3 align="center">🌱 Suis un developpeur web fullStack</h3>
+<h4 align="center">🔭 Suis actuellements Freelance</h4>
+<h4 align="center">⚡ Suis ouvert ou partant pour des bons projets en programmation (Developpements d'application)</h4>
+<h4 align="center">🤝 J'aime bien collaborer avec d'autre programmeur pour accroitre mes connaissances</h4>
+<h4 align="center">⚡ J'adore la musique et les Jeux vidéo sur Play Station (4/5)</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
